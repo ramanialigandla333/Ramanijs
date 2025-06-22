@@ -1,18 +1,18 @@
-// let fname="Ramani"; 
-// let age=15;
+let fname="Ramani"; 
+let age=15;
 
-// function sayName() {
-//     console.log("My Name is"  +  fname  +  "age is" + age);
-//     console.log('My Name is'  +  fname  +  'age is' + age);
-//     console.log(`My Name is ${fname}  age is ${age}`);
+function sayName() {
+    console.log("My Name is"  +  fname  +  "age is" + age);
+    console.log('My Name is'  +  fname  +  'age is' + age);
+    console.log(`My Name is ${fname}  age is ${age}`);
 
-// }
-// sayName()
+}
+sayName()
 
-// //Array Function
+//Array Function
 
-// let sayBye=() => {
-//     console.log("Bye")
+let sayBye=() => {
+    console.log("Bye")
 // }
 // sayBye()
  //how to convert simple to arrrow function
@@ -49,53 +49,44 @@
 
 //inside of blocks in var
 
-// {
-//     var x=10;
-//     var y=20;
-//     console.log(x)
-//     console.log(y)
-// }
+{
+    var x=10;
+    var y=20;
+    console.log(x)
+    console.log(y)
+}
 
-//  //outside of the block in var
-//  {
-//     var x=10;
-//     var y=20;
-//  }
-//     console.log(x)
-//     console.log(y)
+ //outside of the block in var
+ {
+    var x=10;
+    var y=20;
+ }
+    console.log(x)
+    console.log(y)
 
-//     // inside of block in let
-//     {
-//     let a=5;
-//     let b=30;
-//     console.log(a)
-//     console.log(b)
-// }
+    // inside of block in let
+    {
+    let a=5;
+    let b=30;
+    console.log(a)
+    console.log(b)
+}
 
-// //outside of the block in let
-// {
-//     let a=5;
-//     let b=30;
-// }
-//     console.log(a)
-//     console.log(b)
+//outside of the block in let
+{
+    let a=5;
+    let b=30;
+}
+    console.log(a)
+    console.log(b)
 
-//     //inside of the block in const
- //   {
-//     const a=5;
-//     const b=30;
-//     console.log(a)
-//     console.log(b)
-// }
-
-//fun scope
-//var let const
-//                     var   
-//inside of function    ✅
-//outside of function
-
-// inside the function in var
-
+    //inside of the block in const
+   {
+    const a=5;
+    const b=30;
+    console.log(a)
+    console.log(b)
+}
 function s1()
 {
     var a = 10;
