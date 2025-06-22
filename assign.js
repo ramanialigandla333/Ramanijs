@@ -2,38 +2,38 @@
 //var , let , const
 //redeclare
 
-//  var fullName ="Ram"
+ var fullName ="Ram"
 
-//  fullName -"Ramani"
-//  console.log(fullName)
+ fullName -"Ramani"
+ console.log(fullName)
 
-//   var a=10;
-//   var a=20; //redeclare
-//   console.log(a)
-//   a=20;
-//   console.log(a);
+  var a=10;
+  var a=20; //redeclare
+  console.log(a)
+  a=20;
+  console.log(a);
 
-//   let fullName ="Ram"
+  let fullName ="Ram"
 
-//  fullName -"Ramani"
-//  console.log(fullName)
+ fullName -"Ramani"
+ console.log(fullName)
 
-//   let s1 = 10;
-// //   let s1 = 20; //redeclare
-// //   console.log(s1)
-//   s1=20;
+  let s1 = 10;
+//   let s1 = 20; //redeclare
 //   console.log(s1)
+  s1=20;
+  console.log(s1)
  
-//   var fullName ="Ram"
+  var fullName ="Ram"
 
-//  fullName -"Ramani"
-//  console.log(fullName)
+ fullName -"Ramani"
+ console.log(fullName)
 
-//   const a=10;
-//   const a=20; //redeclare
-//   console.log(a)
-//   a=20;
-//   console.log(a);
+  const a=10;
+  const a=20; //redeclare
+  console.log(a)
+  a=20;
+  console.log(a);
 
 //setTimeout
 //execute a function once after a delayed given time in millisecond
@@ -48,7 +48,7 @@ function sayGlobal() {
 //1st function
 //2nd time in milliseconds
 let seconds=3
-// setTimeout(sayGlobal, seconds*1000)
+setTimeout(sayGlobal, seconds*1000)
 
 //seexecute s a function repeatedly t given
 // time in millisecod
