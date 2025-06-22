@@ -1,15 +1,15 @@
 //the switch statement is used when you want to compare one value against many possible cases
 //syntax
-// switch(expressions){
-//     case value1:
-//         //code block
-//         break;
-//         case value2:
-//             //code block
-//             break;
-//             default:
-//                 //code block
-// }
+switch(expressions){
+    case value1:
+        //code block
+        break;
+        case value2:
+            //code block
+            break;
+            default:
+                //code block
+}
 
 
 let day = 1
